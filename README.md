@@ -26,9 +26,7 @@
 * DF-Platter: Multi-Face Heterogeneous Deepfake Dataset [2023][[PDF]](http://openaccess.thecvf.com/content/CVPR2023/papers/Narayan_DF-Platter_Multi-Face_Heterogeneous_Deepfake_Dataset_CVPR_2023_paper.pdf)
 * Implicit Identity Driven Deepfake Face Swapping Detection [2023][[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Implicit_Identity_Driven_Deepfake_Face_Swapping_Detection_CVPR_2023_paper.pdf)
 * Sharp Multiple Instance Learning for DeepFake Video Detection [2020][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394171.3414034)
-* 
-
-
+* Restricted Black-Box Adversarial Attack Against DeepFake Face Swapping [2023][[PDF]](https://arxiv.org/pdf/2204.12347)
 
 ## Improving Fairness in Deepfake Detection
 ### Gender
@@ -45,8 +43,6 @@
 * Preserving Fairness Generalization in Deepfake Detection [2024][[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Preserving_Fairness_Generalization_in_Deepfake_Detection_CVPR_2024_paper.pdf)
 * Proactive Deepfake Detection via Training-Free Landmark Perceptual Watermarks [2024][[PDF]](https://openreview.net/pdf?id=JMMrXtBN3M)
 * Learning Natural Consistency Representation for  Face Forgery Video Detection [2024][[PDF]](https://arxiv.org/pdf/2407.10550)
-* 
-* 
 
 ## Attacking Deepfake detectors
 * Making DeepFakes more spurious: evading  deep face forgery detection via trace removal  attack [2023][[PDF]](https://arxiv.org/pdf/2203.11433)
@@ -55,5 +51,9 @@
 * Evading Deepfake-Image Detectors with White- and Black-Box Attacks [2020][[PDF]](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Carlini_Evading_Deepfake-Image_Detectors_With_White-_and_Black-Box_Attacks_CVPRW_2020_paper.pdf)
 * AVA: Inconspicuous Attribute Variation-based Adversarial Attack bypassing DeepFake Detection [2024][[PDF]](https://arxiv.org/pdf/2312.08675)
 * ADVSHADOW: EVADING DEEPFAKE DETECTION VIA ADVERSARIAL SHADOW ATTACK [2024][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10448251)
+* Adversarial Perturbations Fool Deepfake Detectors [2020][[PDF]](https://arxiv.org/pdf/2003.10596)
+* 2D-Malafide: Adversarial Attacks Against Face Deepfake Detection Systems [2024][[PDF]](https://arxiv.org/pdf/2408.14143)
+* Turn Fake into Real: Adversarial Head Turn Attacks Against Deepfake Detection [2023][[PDF]](https://arxiv.org/pdf/2309.01104)
+* Defending Deepfakes by Saliency-Aware Attack [2023][[PDF]](https://li.qilei.me/papers/LiEtAl_ITCSS2023.pdf)
 
 
