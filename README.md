@@ -35,6 +35,8 @@
 * Exposing deepfake videos by detecting face warping artifacts [2018][[PDF]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Li_Exposing_DeepFake_Videos_By_Detecting_Face_Warping_Artifacts_CVPRW_2019_paper.pdf)
 * Distinguishing computer graphics from natural images using convolution neural networks [2017][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8267647)
 * Faceforensics++: Learning to detect manipulated facial images [2019][[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Rossler_FaceForensics_Learning_to_Detect_Manipulated_Facial_Images_ICCV_2019_paper.pdf)
+* Xception: Deep learning with depthwise separable convolutions [2017][[PDF]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chollet_Xception_Deep_Learning_CVPR_2017_paper.pdf)
+* 
   
 
 ## Improving Fairness in Deepfake Detection
