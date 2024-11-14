@@ -28,7 +28,7 @@
 * Sharp Multiple Instance Learning for DeepFake Video Detection [2020][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394171.3414034)
 * Restricted Black-Box Adversarial Attack Against DeepFake Face Swapping [2023][[PDF]](https://arxiv.org/pdf/2204.12347)
 
-###Convolutional Neural Networks (CNNs)
+### Convolutional Neural Networks (CNNs)
 * Mesonet: a compact facial video forgery detection network [2018][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8630761)
 * Deepfake video detection through optical flow based cnn [2019][[PDF]](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Amerini_Deepfake_Video_Detection_through_Optical_Flow_Based_CNN_ICCVW_2019_paper.pdf)
 * The deepfake detection challenge (dfdc) dataset [2020][[PDF]](https://arxiv.org/pdf/2006.07397)
