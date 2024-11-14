@@ -4,7 +4,7 @@
 * FaceSwap (FS) : Marek Kowalski. Faceswap (https://github.com/marekkowalski/faceswap/)
 * Face2Face (F2F) :  Face2face: Real-time face capture and reenactment of rgb videos [2016][[PDF]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Thies_Face2Face_Real-Time_Face_CVPR_2016_paper.pdf)
 * DeepFakes (DF) : DeepFakes. (https://github.com/deepfakes/faceswap)
-* NeuralTextures (NT) : Deferred neural rendering: Image synthesis using neural textures [2019][[PDF]]()
+* NeuralTextures (NT) : Deferred neural rendering: Image synthesis using neural textures [2019][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3306346.3323035)
 
 
 ## Deepfake Detection
