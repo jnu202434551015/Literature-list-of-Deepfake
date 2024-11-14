@@ -28,6 +28,15 @@
 * Sharp Multiple Instance Learning for DeepFake Video Detection [2020][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394171.3414034)
 * Restricted Black-Box Adversarial Attack Against DeepFake Face Swapping [2023][[PDF]](https://arxiv.org/pdf/2204.12347)
 
+###Convolutional Neural Networks (CNNs)
+* Mesonet: a compact facial video forgery detection network [2018][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8630761)
+* Deepfake video detection through optical flow based cnn [2019][[PDF]](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Amerini_Deepfake_Video_Detection_through_Optical_Flow_Based_CNN_ICCVW_2019_paper.pdf)
+* The deepfake detection challenge (dfdc) dataset [2020][[PDF]](https://arxiv.org/pdf/2006.07397)
+* Exposing deepfake videos by detecting face warping artifacts [2018][[PDF]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Li_Exposing_DeepFake_Videos_By_Detecting_Face_Warping_Artifacts_CVPRW_2019_paper.pdf)
+* Distinguishing computer graphics from natural images using convolution neural networks [2017][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8267647)
+* Faceforensics++: Learning to detect manipulated facial images [2019][[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Rossler_FaceForensics_Learning_to_Detect_Manipulated_Facial_Images_ICCV_2019_paper.pdf)
+  
+
 ## Improving Fairness in Deepfake Detection
 ### Gender
 * GBDF: Gender Balanced DeepFake Dataset Towards Fair DeepFake Detection [2022][[PDF]](https://arxiv.org/pdf/2207.10246)
