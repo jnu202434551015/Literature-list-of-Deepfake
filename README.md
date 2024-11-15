@@ -24,6 +24,7 @@
 
 
 ## Deepfake Detection
+* Deepfake detection with deep learning: Convolutional neural networks versus transformers [2023][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10225004)
 * Deepfake video detection using recurrent neural networks [2018][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8639163)
 * Deepfake Detection: A Systematic Literature Review [2022][[PDF]](https://ieeexplore.ieee.org/iel7/6287639/6514899/09721302.pdf)
 * Joint Audio-Visual Attention with Contrastive Learning for More General Deepfake Detection [2024][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3625100)
