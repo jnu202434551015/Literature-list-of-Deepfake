@@ -1,6 +1,8 @@
 # Literature-list-of-Deepfake
 
 ## Deepfake
+* Deepfakes generation and detection: A short survey [2023][[PDF]](https://www.mdpi.com/2313-433X/9/1/18)
+* Deepfake generation and detection case study and challenges [2023][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10354308)
 * FaceSwap (FS) : Marek Kowalski. Faceswap (https://github.com/marekkowalski/faceswap/)
 * Face2Face (F2F) :  Face2face: Real-time face capture and reenactment of rgb videos [2016][[PDF]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Thies_Face2Face_Real-Time_Face_CVPR_2016_paper.pdf)
 * DeepFakes (DF) : DeepFakes. (https://github.com/deepfakes/faceswap)
