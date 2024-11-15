@@ -16,6 +16,10 @@
 * Using gans to synthesise minimum training data for deepfake generation [2020][[PDF]](https://arxiv.org/pdf/2011.05421)
 * Real-time face transition using deepfake technology (gan model) [2023][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10134474)
 
+## generating Deepfakes through Diffusion
+* Text-image guided diffusion model for generating deepfake celebrity interactions [2023][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10410943)
+* Latent Flow Diffusion for Deepfake Video Generation [2024][[PDF]](https://openaccess.thecvf.com/content/CVPR2024W/DFAD/papers/K_Latent_Flow_Diffusion_for_Deepfake_Video_Generation_CVPRW_2024_paper.pdf)
+
 
 ## Deepfake Detection
 * Deepfake Detection: A Systematic Literature Review [2022][[PDF]](https://ieeexplore.ieee.org/iel7/6287639/6514899/09721302.pdf)
