@@ -66,7 +66,14 @@
 * Distinguishing computer graphics from natural images using convolution neural networks [2017][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8267647)
 * Faceforensics++: Learning to detect manipulated facial images [2019][[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Rossler_FaceForensics_Learning_to_Detect_Manipulated_Facial_Images_ICCV_2019_paper.pdf)
 * Xception: Deep learning with depthwise separable convolutions [2017][[PDF]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chollet_Xception_Deep_Learning_CVPR_2017_paper.pdf)
-* 
+
+### Temporal
+* Saliency and granularity: Discovering temporal coherence for video-based person reidentification [2022][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729212)
+* Temporal consistency learning of inter-frames for video super-resolution [2022][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9919163)
+* Large-scale spatio-temporal person re-identification: Algorithms and benchmark [2021][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9615085)
+* Spatio-temporal deformable convolution for compressed video quality enhancement [2020][[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/6697)
+* Learning generalized spatial–temporal deep feature representation for no-reference video quality assessment [2021][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9452150)
+* Video compression based on spatio-temporal resolution adaptation [2018][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8517114)
   
 
 ## Improving Fairness in Deepfake Detection
