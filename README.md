@@ -21,6 +21,7 @@
 ## generating Deepfakes through Diffusion
 * Text-image guided diffusion model for generating deepfake celebrity interactions [2023][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10410943)
 * Latent Flow Diffusion for Deepfake Video Generation [2024][[PDF]](https://openaccess.thecvf.com/content/CVPR2024W/DFAD/papers/K_Latent_Flow_Diffusion_for_Deepfake_Video_Generation_CVPRW_2024_paper.pdf)
+* DIP: Diffusion Learning of Inconsistency Pattern  for General DeepFake Detection [2024][[PDF]](https://arxiv.org/pdf/2410.23663)
 
 
 ## Deepfake Detection
