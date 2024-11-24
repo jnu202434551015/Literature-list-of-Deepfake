@@ -80,6 +80,10 @@
 * Delving into Sequential Patches for Deepfake Detection [2022][[PDF]](https://proceedings.neurips.cc/paper_files/paper/2022/file/1d051fb631f104cb2a621451f37676b9-Paper-Conference.pdf)
 * An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [2021]
 * AltFreezing for More General Video Face Forgery Detection [2023][[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_AltFreezing_for_More_General_Video_Face_Forgery_Detection_CVPR_2023_paper.pdf)
+* Exploring Temporal Coherence for More General Video Face Forgery Detection [2021][[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Exploring_Temporal_Coherence_for_More_General_Video_Face_Forgery_Detection_ICCV_2021_paper.pdf)
+* Lips Don’t Lie: A Generalisable and Robust Approach To Face Forgery Detection [2021][[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Haliassos_Lips_Dont_Lie_A_Generalisable_and_Robust_Approach_To_Face_CVPR_2021_paper.pdf)
+* Video Transformer for Deepfake Detection with Incremental Learning [2021][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475332)
+* Improving the Efficiency and Robustness of Deepfakes Detection Through Precise Geometric Features [2021][[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Improving_the_Efficiency_and_Robustness_of_Deepfakes_Detection_Through_Precise_CVPR_2021_paper.pdf)
 
 ### artifacts
 * Learning Self-Consistency for Deepfake Detection [2021][[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Learning_Self-Consistency_for_Deepfake_Detection_ICCV_2021_paper.pdf)
