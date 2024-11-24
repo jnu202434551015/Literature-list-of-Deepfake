@@ -77,6 +77,9 @@
 * Video compression based on spatio-temporal resolution adaptation [2018][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8517114)
 * Detecting Deepfake Videos with Temporal Dropout 3DCNN [2021][[PDF]](https://www.ijcai.org/proceedings/2021/0178.pdf)
 * Region-aware temporal inconsistency learning for deepfake video detection [2022][[PDF]](https://www.ijcai.org/proceedings/2022/0129.pdf)
+* Delving into Sequential Patches for Deepfake Detection [2022][[PDF]](https://proceedings.neurips.cc/paper_files/paper/2022/file/1d051fb631f104cb2a621451f37676b9-Paper-Conference.pdf)
+* An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [2021]
+* AltFreezing for More General Video Face Forgery Detection [2023][[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_AltFreezing_for_More_General_Video_Face_Forgery_Detection_CVPR_2023_paper.pdf)
 
 ## Improving Fairness in Deepfake Detection
 ### Gender
