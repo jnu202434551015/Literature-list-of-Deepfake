@@ -75,6 +75,7 @@
 * Spatio-temporal deformable convolution for compressed video quality enhancement [2020][[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/6697)
 * Learning generalized spatial–temporal deep feature representation for no-reference video quality assessment [2021][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9452150)
 * Video compression based on spatio-temporal resolution adaptation [2018][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8517114)
+* Detecting Deepfake Videos with Temporal Dropout 3DCNN [2021][[PDF]](https://www.ijcai.org/proceedings/2021/0178.pdf)
   
 
 ## Improving Fairness in Deepfake Detection
