@@ -81,6 +81,10 @@
 * An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [2021]
 * AltFreezing for More General Video Face Forgery Detection [2023][[PDF]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_AltFreezing_for_More_General_Video_Face_Forgery_Detection_CVPR_2023_paper.pdf)
 
+### artifacts
+* Learning Self-Consistency for Deepfake Detection [2021][[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Learning_Self-Consistency_for_Deepfake_Detection_ICCV_2021_paper.pdf)
+* Detecting Deepfakes With Self-Blended Images [2022][[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shiohara_Detecting_Deepfakes_With_Self-Blended_Images_CVPR_2022_paper.pdf)
+
 ## Improving Fairness in Deepfake Detection
 ### Gender
 * GBDF: Gender Balanced DeepFake Dataset Towards Fair DeepFake Detection [2022][[PDF]](https://arxiv.org/pdf/2207.10246)
