@@ -76,7 +76,7 @@
 * Learning generalized spatial–temporal deep feature representation for no-reference video quality assessment [2021][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9452150)
 * Video compression based on spatio-temporal resolution adaptation [2018][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8517114)
 * Detecting Deepfake Videos with Temporal Dropout 3DCNN [2021][[PDF]](https://www.ijcai.org/proceedings/2021/0178.pdf)
-  
+* Region-aware temporal inconsistency learning for deepfake video detection [2022][[PDF]](https://www.ijcai.org/proceedings/2022/0129.pdf)
 
 ## Improving Fairness in Deepfake Detection
 ### Gender
