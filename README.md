@@ -8,6 +8,7 @@
 * DeepFakes (DF) : DeepFakes. (https://github.com/deepfakes/faceswap)
 * NeuralTextures (NT) : Deferred neural rendering: Image synthesis using neural textures [2019][[PDF]](https://dl.acm.org/doi/pdf/10.1145/3306346.3323035)
 * DeepFake Detection Challenge (DFDC) Dataset : The deepfake detection challenge (dfdc) dataset [2020][[PDF]](https://arxiv.org/pdf/2006.07397)
+* DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection [2020][[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_DeeperForensics-1.0_A_Large-Scale_Dataset_for_Real-World_Face_Forgery_Detection_CVPR_2020_paper.pdf)
 * face swapping : Two-stream neural networks for tampered face detection [2017][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8014963)
 * face morphing : Transferable deep-cnn features for detecting digital and print-scanned morphed face images [2017][[PDF]](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w28/papers/Busch_Transferable_Deep-CNN_Features_CVPR_2017_paper.pdf)
 * splicing attacks : Exploiting spatial structure for localizing manipulated image regions [2017][[PDF]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Bappy_Exploiting_Spatial_Structure_ICCV_2017_paper.pdf)
