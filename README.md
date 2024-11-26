@@ -58,7 +58,7 @@
 * Exposing ai created fake videos by detecting eye blinking [2018][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8630787)
 * Deepfake video detection using recurrent neural networks [2018][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8639163)
 * Recurrent convolutional strategies for face manipulation detection in videos [2019][[PDF]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Sabir_Recurrent_Convolutional_Strategies_for_Face_Manipulation_Detection_in_Videos_CVPRW_2019_paper.pdf)
-* 
+* Learning to Discover Forgery Cues for Face Forgery Detection [2024][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10458687)
 
 ### Convolutional Neural Networks (CNNs)
 * Mesonet: a compact facial video forgery detection network [2018][[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8630761)
